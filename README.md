@@ -6,7 +6,7 @@
   <br>
 </p>
 
-# Ethereum Binaries
+# Vapory Binaries
 
 Fast, easy and secure Ethereum binary management.
 
